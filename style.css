@@ -7,3 +7,10 @@
   padding: 20px;
   border: 10px solid black;
 }
+li {
+  padding: 10px;
+  list-style-type: none;
+}
+li:hover {
+  background: #ccc;
+}
